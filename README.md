@@ -1,4 +1,4 @@
-# flutter_read_more
+# readmore
 
 A Flutter plugin that allows to expansion and collapse of text.
 

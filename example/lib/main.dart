@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_read_more/flutter_read_more.dart';
+import 'package:readmore/readmore.dart';
 
 void main() {
   runApp(const MyApp());

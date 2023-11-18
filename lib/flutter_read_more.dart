@@ -1,4 +1,4 @@
-library flutter_read_more;
+library readmore;
 
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
